@@ -24,7 +24,7 @@ real-world problems.
 - **Tech**: MERN, Axios, Zustand, TailwindCSS, Shadcn/ui `(neo-brutalism theme)`, Cloudinary, Swagger, Vercel `(FE)`, Render `(BE)`
 - **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
 - **Features:** :  
-  - Authentication with JWT 
+  - Authentication with `JWT`
   - Product management `(mock-up data via Swagger, images via Cloudinary)`
   - Cart & Order system with order history
   - UI built with Tailwind + Shadcn/ui `(neo-brutalism theme)`
