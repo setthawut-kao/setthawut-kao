@@ -92,7 +92,7 @@ Currently exploring and building with **`NEMP Stack`**
 
 ## 📬 Connect with Me  
 
-- **LinkedIn**: [linkedin.com/in/setthawut](https://linkedin.com/in/setthawut)  
+- **LinkedIn**: [linkedin.com/in/setthawut](https://www.linkedin.com/in/setthawut-jidsomboon-54b7a3359/)  
 - **Email**: [setthawut.kao@gmail.com](mailto:setthawut.kao@gmail.com)  
 
 ---
