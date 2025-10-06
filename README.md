@@ -2,7 +2,8 @@
 
 🌱 **UX/UI Designer → Full Stack Developer `(MERN)`**  
 Driven by design thinking and passionate about building intuitive, robust web applications.  
-Currently transitioning from 2 years in UX/UI design to Full Stack Development, applying both creative and technical skills to solve real-world problems.  
+Currently transitioning from 2 years in UX/UI design to Full Stack Development, applying both creative and technical skills to solve
+real-world problems.  
 
 ---
 
