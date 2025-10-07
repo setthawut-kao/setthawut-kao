@@ -9,14 +9,14 @@ real-world problems.
 
 ## 💻 Tech Stack
 
-- **Languages & Frameworks `(Frontend)`**:  **`Javascript`**, **`React`**
+- **Languages & Frameworks `(Frontend)`**:  **`javaScript`**, **`React`**
 - **Languages & Frameworks `(Backend)`**:  **`Node.js`**, **`Express.js`**
 - **Database**:  **`MongoDB (Mongoose)`**
-- **Styling**:  **`TailwindCSS`**, **`Shadcn/ui (Neo-Brutalism style)`**
+- **Styling**:  **`TailwindCSS`**, **`shadcn/ui (neo-brutalism style)`**
 - **Tools**:  **`Git`**, **`Vite`**, **`Vercel`**, **`Render`**, **`Jira`**, **`Figma`**
 - **Other / State Management / API**:  **`Axios`**, **`Zustand`**, **`OpenAI API`**
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,tailwind,git,vite,vercel,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javaScript,react,nodejs,express,mongodb,tailwind,git,vite,vercel,figma)](https://skillicons.dev)
 
 ---
 
@@ -24,20 +24,20 @@ real-world problems.
 
 ### 1. 👉 [Re:furnish (E-commerce: Second-Hand Furniture Website)](https://fe-re-furnish.vercel.app/)
 🛋️ Final Bootcamp Project — E-commerce platform for second-hand furniture.
-- **Tech**: MERN, Axios, Zustand, TailwindCSS, Shadcn/ui `(neo-brutalism theme)`, Cloudinary, Swagger, Vercel `(FE)`, Render `(BE)`
+- **Tech**: MERN, Axios, Zustand, TailwindCSS, shadcn/ui `(neo-brutalism theme)`, Cloudinary, Swagger, Vercel `(FE)`, Render `(BE)`
 - **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
 - **Features:** :  
   - Authentication with `JWT`
   - Product management `(mock-up data via Swagger, images via Cloudinary)`
   - Cart & Order system with order history
-  - UI built with Tailwind + Shadcn/ui `(neo-brutalism theme)`
+  - UI built with Tailwind + shadcn/ui `(neo-brutalism theme)`
 - **Challenge & Learning**: Learned the importance of FE–BE data format alignment; implemented cookie-based auth but discovered Safari/iOS limitations; strengthened skills in fullstack integration under time pressure.
 
 ---
 
 ### 2. 👉 NotesAI (CRUD + OpenAI Integration)
 📝 Training Project — Note-taking app with AI-powered search.
-- **Tech**: MERN, Axios, TailwindCSS, Shadcn/ui `(Neo-brutalism)`, Vercel `(FE)`, Render `(BE)`, OpenAI API
+- **Tech**: MERN, Axios, TailwindCSS, shadcn/ui `(neo-brutalism)`, Vercel `(FE)`, Render `(BE)`, OpenAI API
 - **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
 - **Features:** :
   - CRUD notes `(create, edit, delete, pin notes)`
@@ -48,7 +48,7 @@ real-world problems.
 
 ### 3. 👉 Assessment Project (CRUD Table)
 📊 Bootcamp Assessment — CRUD table to practice API integration.  
-- **Tech**: React, Axios, TailwindCSS, Shadcn/ui `(Neo-brutalism)`, Vercel `(FE)`
+- **Tech**: React, Axios, TailwindCSS, shadcn/ui `(neo-brutalism)`, Vercel `(FE)`
 - **Role**: Frontend & UX/UI
 - **Features:** :
   - Fetch and render data from dummy API `(provided by bootcamp)`
