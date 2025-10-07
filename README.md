@@ -8,12 +8,15 @@ real-world problems.
 ---
 
 ## 💻 Tech Stack
+
 - **Languages & Frameworks `(Frontend)`**:  **`Javascript`**, **`React`**
 - **Languages & Frameworks `(Backend)`**:  **`Node.js`**, **`Express.js`**
 - **Database**:  **`MongoDB (Mongoose)`**
 - **Styling**:  **`TailwindCSS`**, **`Shadcn/ui (Neo-Brutalism style)`**
 - **Tools**:  **`Git`**, **`Vite`**, **`Vercel`**, **`Render`**, **`Jira`**, **`Figma`**
 - **Other / State Management / API**:  **`Axios`**, **`Zustand`**, **`OpenAI API`**
+
+    [![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,tailwind,git,vite,vercel,figma)](https://skillicons.dev)
 
 ---
 
@@ -81,6 +84,8 @@ Currently exploring and building with **`NEMP Stack`**
 - **Elysia** `Backend with Bun`
 - **PostgreSQL + MongoDB** `Databases`
 - **Prisma** `ORM`
+
+    [![My Skills](https://skillicons.dev/icons?i=nextjs,elysia,postgres,mongodb,prisma)](https://skillicons.dev)
 
 ---
 
