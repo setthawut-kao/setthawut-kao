@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Setthawut Jidsomboon  
 
-🌱 **UX/UI Designer → Full Stack Developer `(MERN)`**  
+🌱 **UX/UI Designer → Full Stack Developer `(MERN Stack)`**  
 Driven by design thinking and passionate about building intuitive, robust web applications.  
 Currently transitioning from 2 years in UX/UI design to Full Stack Development, applying both creative and technical skills to solve
 real-world problems.  
