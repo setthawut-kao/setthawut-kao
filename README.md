@@ -51,8 +51,8 @@ real-world problems.
 - **Tech**: MERN, Axios, TailwindCSS, shadcn/ui`(neo-brutalism)`, Vercel `(FE)`, Render `(BE)`, OpenAI API
 - **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
 - **Features:** :
-  - `(User)` view and manage personal records
-  - `(Admin)` edit, update, and delete records
+  - `(User):` view and manage personal records
+  - `(Admin):` edit, update, and delete records
   - CRUD operations with MongoDB & RESTful API integration
 - **Challenge & Learning**: Learned to fetch data with Axios and render it dynamically; gained confidence in separating components and managing API-driven UI updates.
   
