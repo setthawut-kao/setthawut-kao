@@ -47,12 +47,13 @@ real-world problems.
 ---
 
 ### 3. 👉 Assessment Project (CRUD Table)
-📊 Bootcamp Assessment — CRUD table to practice API integration.  
-- **Tech**: React, Axios, TailwindCSS, shadcn/ui `(neo-brutalism)`, Vercel `(FE)`
-- **Role**: Frontend & UX/UI
+📊 Bootcamp Assessment — Fullstack CRUD table with user/admin roles. 
+- **Tech**: MERN, Axios, TailwindCSS, shadcn/ui `(neo-brutalism)`, Vercel `(FE)`, Render `(BE)`, OpenAI API
+- **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
 - **Features:** :
-  - Fetch and render data from dummy API `(provided by bootcamp)`
-  - Display user/admin tables with CRUD operations `(admin can edit/delete)` 
+  - `(User)` view and manage personal records
+  - `(Admin)` edit, update, and delete records
+  - CRUD operations with MongoDB & RESTful API integration
 - **Challenge & Learning**: Learned to fetch data with Axios and render it dynamically; gained confidence in separating components and managing API-driven UI updates.
   
 ---
