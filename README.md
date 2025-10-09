@@ -63,6 +63,8 @@ This background allows me to bridge the gap between design and development —
 creating products that are both functional and user-friendly.
 
 **UX/UI Designer (Contract) — TeleHealth Thailand `(Aug 2023 – Present)`**
+
+👉 [View Certificate]([https://drive.google.com/file/d/1xaeXTjxJvMnEwxZ5tggsu9BH6ptrIgh9/view?usp=sharing](https://quaint-ptarmigan-471.notion.site/Telehealth-Thailand-1c3564f3a48b8104be46cad1e82717b8))
 - Designed end-to-end UX/UI for telehealth mobile app consultation features
 - Created user flows, wireframes, and high-fidelity mockups for multiple modules
 - Collaborated with dev team & product owners for smooth design-to-development handoff
@@ -72,6 +74,8 @@ creating products that are both functional and user-friendly.
 ## 📜 Certification  
 
 **Junior Software Developer Bootcamp — Generation Thailand `(Jun – Sep 2025)`**
+
+👉 [View Certificate](https://drive.google.com/file/d/1xaeXTjxJvMnEwxZ5tggsu9BH6ptrIgh9/view?usp=sharing)
 - Learned MERN stack, agile teamwork, and essential soft skills
 - Built a final CRUD project with React, Express, MongoDB
 
