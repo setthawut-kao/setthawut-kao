@@ -24,7 +24,7 @@ real-world problems.
 
 ### 1. 👉 [Re:furnish (E-commerce: Second-Hand Furniture Website)](https://fe-re-furnish.vercel.app/)
 🛋️ Final Bootcamp Project — E-commerce platform for second-hand furniture.
-- **Tech**: MERN, Axios, Zustand, TailwindCSS, shadcn/ui`(neo-brutalism theme)`, Cloudinary, Swagger, Vercel `(FE)`, Render `(BE)`
+- **Tech**: MERN, Axios, Zustand, TailwindCSS, shadcn/ui`(neo-brutalism theme)`, Cloudinary, Swagger, Vercel`(FE)`, Render`(BE)`
 - **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
 - **Features:** :  
   - Authentication with `JWT`
@@ -37,7 +37,7 @@ real-world problems.
 
 ### 2. 👉 NotesAI (CRUD + OpenAI Integration)
 📝 Training Project — Note-taking app with AI-powered search.
-- **Tech**: MERN, Axios, TailwindCSS, shadcn/ui`(neo-brutalism)`, Vercel `(FE)`, Render `(BE)`, OpenAI API
+- **Tech**: MERN, Axios, TailwindCSS, shadcn/ui`(neo-brutalism)`, Vercel`(FE)`, Render`(BE)`, OpenAI API
 - **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
 - **Features:** :
   - CRUD notes `(create, edit, delete, pin notes)`
@@ -48,7 +48,7 @@ real-world problems.
 
 ### 3. 👉 Assessment Project (CRUD Table)
 📊 Bootcamp Assessment — Fullstack CRUD table with user/admin roles. 
-- **Tech**: MERN, Axios, TailwindCSS, shadcn/ui`(neo-brutalism)`, Vercel `(FE)`, Render `(BE)`, OpenAI API
+- **Tech**: MERN, Axios, TailwindCSS, shadcn/ui`(neo-brutalism)`, Vercel`(FE)`, Render`(BE)`, OpenAI API
 - **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
 - **Features:** :
   - `(User):` view and manage personal records
