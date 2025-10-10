@@ -48,7 +48,7 @@ real-world problems.
 
 ### 3. 👉 [Assessment Project (CRUD Table)](https://fe-assessment-project-crud-table.vercel.app/)
 📊 Bootcamp Assessment — Fullstack CRUD table with user/admin roles. 
-- **Tech**: MERN, Axios, TailwindCSS, shadcn/ui`(neo-brutalism)`, Vercel`(FE)`, Render`(BE)`, OpenAI API
+- **Tech**: MERN, Axios, TailwindCSS, shadcn/ui`(neo-brutalism)`, Vercel`(FE)`, Render`(BE)`
 - **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
 - **Features:** :
   - `(User):` view and manage personal records
