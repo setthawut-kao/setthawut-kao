@@ -35,18 +35,7 @@ real-world problems.
 
 ---
 
-### 2. 👉 NotesAI (CRUD + OpenAI Integration)
-📝 Training Project — Note-taking app with AI-powered search.
-- **Tech**: MERN, Axios, TailwindCSS, shadcn/ui`(neo-brutalism)`, Vercel`(FE)`, Render`(BE)`, OpenAI API
-- **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
-- **Features:** :
-  - CRUD notes `(create, edit, delete, pin notes)`
-  - AI-powered search `(ask questions to find info from notes, e.g., “When is the water bill due?” → fetches relevant note)`
-- **Challenge & Learning**: First hands-on with integrating OpenAI API; learned to manage state and asynchronous requests for smooth AI responses; practiced UX thinking by combining manual + AI search.
-
----
-
-### 3. 👉 [Assessment Project (CRUD Table)](https://fe-assessment-project-crud-table.vercel.app/)
+### 2. 👉 [Assessment Project (CRUD Table)](https://fe-assessment-project-crud-table.vercel.app/)
 📊 Bootcamp Assessment — Fullstack CRUD table with user/admin roles. 
 - **Tech**: MERN, Axios, TailwindCSS, shadcn/ui`(neo-brutalism)`, Vercel`(FE)`, Render`(BE)`
 - **Role**: Fullstack `(Frontend, Backend, Database, API, UX/UI)`
