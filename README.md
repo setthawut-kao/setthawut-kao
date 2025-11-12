@@ -16,7 +16,7 @@ real-world problems.
 - **Tools**:  **`Git`**, **`Vite`**, **`Vercel`**, **`Render`**, **`Jira`**, **`Figma`**
 - **Other / State Management / API**:  **`Axios`**, **`Zustand`**, **`OpenAI API`**
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,tailwind,git,vite,vercel,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,nodejs,express,mongodb,tailwind,git,vite,vercel,figma)](https://skillicons.dev)
 
 ---
 
