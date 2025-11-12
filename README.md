@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Setthawut Jidsomboon  
 
-🌱 **UX/UI Designer → Full Stack Developer `(MERN Stack)`**  
+🌱 **UX/UI Designer → Full Stack Developer**  
 Driven by design thinking and passionate about building intuitive, robust web applications.  
 Currently transitioning from 2 years in UX/UI design to Full Stack Development, applying both creative and technical skills to solve
 real-world problems.  
@@ -9,10 +9,10 @@ real-world problems.
 
 ## 💻 Tech Stack
 
-- **Languages & Frameworks `(Frontend)`**:  **`javaScript`**, **`React`**
+- **Languages & Frameworks `(Frontend)`**:  **`javaScript(TypeScript)`**, **`React(Next.js)`**
 - **Languages & Frameworks `(Backend)`**:  **`Node.js`**, **`Express.js`**
 - **Database**:  **`MongoDB(Mongoose)`**
-- **Styling**:  **`TailwindCSS`**, **`shadcn/ui(neo-brutalism style)`**
+- **Styling**:  **`TailwindCSS`**
 - **Tools**:  **`Git`**, **`Vite`**, **`Vercel`**, **`Render`**, **`Jira`**, **`Figma`**
 - **Other / State Management / API**:  **`Axios`**, **`Zustand`**, **`OpenAI API`**
 
